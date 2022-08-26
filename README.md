@@ -89,7 +89,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
     <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/ronanstuchi">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/ronanstuchi">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/ronanstuchi/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/ronanstuchi">Twitch</a></p>
 </p>
 <br/><br/>
 <p>
