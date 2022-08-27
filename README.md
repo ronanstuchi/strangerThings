@@ -88,5 +88,4 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 ## 🌎 redes sociais
 <p>
     <p>&nbsp&nbsp&nbspRonan Stuchi <br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/ronanstuchi">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/ronanstuchi">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/ronanstuchi/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/ronanstuchi">Twitch</a></p>
-</p>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/ronanstuchi">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/ronanstuchi">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/ronanstuchi/">LinkedIn</a>&nbsp;|
