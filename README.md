@@ -12,6 +12,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - HTML
 - CSS
 - JavaScript
+- Firebase
 
 ## 💬 Assuntos abordados
 - HTML
